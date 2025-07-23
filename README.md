@@ -10,7 +10,7 @@ Tess' Corner is a minimal, elegant, and mobile-friendly e-commerce MVP built usi
 
 ## 🌐 Live Demo
 
-🔗 [](https://tess-corner.netlify.app/)
+🔗 [Tess-Corner](https://tess-corner.netlify.app/)
 
 ---
 
