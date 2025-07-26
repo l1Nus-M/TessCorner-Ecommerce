@@ -90,7 +90,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 Tess' Corner. All rights reserved. | Coordinates: 0°15'58"S 36°06'36"E
+            © 2025 Tess' Corner. All rights reserved. | Mawanga, Nakuru
           </p>
         </div>
       </div>
