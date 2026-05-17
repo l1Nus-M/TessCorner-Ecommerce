@@ -4,8 +4,6 @@
 
 Tess' Corner is a minimal, elegant, and mobile-friendly e-commerce MVP built using the MERN Stack (MongoDB, Express.js, React, Node.js). The platform allows customers to browse various product categories, add items to a cart, view a total cost, and then proceed to pick up their orders at the physical shop location.
 
-> 🎁 This is a surprise MVP project for Tess, a passionate entrepreneur based in Mawanga, Nakuru.
-
 ---
 
 ## 🌐 Live Demo
